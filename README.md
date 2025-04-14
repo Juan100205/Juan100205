@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Juan José Riaño Zabaleta</a> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/a/GqZscES)">
+<img src="https://imgur.com/a/VEPT1rp">
 
 
 ## Sobre mi
