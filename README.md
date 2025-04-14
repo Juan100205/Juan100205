@@ -3,97 +3,79 @@
 </div>
 <img src="https://imgur.com/a/VEPT1rp">
 
+## Sobre mí
 
-## Sobre mi
-
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🧠 Ingeniero en formación y apasionado por la tecnología  
+- ⚙️ Apasionado por el control de sistemas, electrónica y energía  
+- 💻 Desarrollo proyectos en Python, MATLAB, y sistemas embebidos  
+- 🧾 Documentación clara y didáctica para estudiantes e ingenieros  
+- 🎓 Compartiendo conocimiento en experiencias educativas como **talleres, eventos y plataformas interactivas**  
+- 🌍 Trabajo en experiencias como *Pasta Fresca y Vino*, *Cacao a Chocolate* y actividades multisensoriales para aprender haciendo  
 <br>
 
-## Proyectos *bombitas*
+## Proyectos destacados
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Control de un Motor DC</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com" target="_blank"><img src="https://i.imgur.com/xNPNW5m.jpg" width="400" alt="Motor DC"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-2222ff?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Proyecto práctico en MATLAB + Arduino para el control de velocidad y dirección de un motor DC. Se implementan conceptos de sistemas dinámicos, H-bridge y lectura de sensores. Ideal para estudiantes de electrónica y control automático.</p>
 </div>
-                                                                                      
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
+<h3 align="center">Simulador de Ciclo Combinado</h3>
+<div align="center">
+<a href="https://github.com" target="_blank"><img src="https://i.imgur.com/y4dX6MK.jpg" width="400" alt="Ciclo combinado"></a>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://github.com" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-ffaa00?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
+<p>Simulador termodinámico en MATLAB del ciclo combinado Brayton-Rankine. Ideal para entender eficiencia térmica, análisis energético, y cómo mejorar el rendimiento de plantas energéticas reales.</p>
+</div>  
+</td>
+</tr>
+</table>
+
 <br>
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Taller "Cacao a Chocolate"</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/ds9y4e2.jpg" width="400" alt="Cacao a chocolate"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/EXPERIENCIA-en%20vivo-dd55ff?style=for-the-badge">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
+<p>Experiencia multisensorial donde los participantes conocen el proceso desde el grano de cacao hasta la tableta de chocolate. Educación, cultura y sabor en una sola actividad.</p>
+</div>  
+</td>
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Pasta Fresca, Serenata y Vino</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/CQ8t46p.jpg" width="400" alt="Pasta fresca"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/EXPERIENCIA-gastronómica-ff3333?style=for-the-badge">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
+<p>Taller gastronómico de cocina italiana con música en vivo y maridaje. Perfecto para conectar, aprender y disfrutar en pareja o en grupo. Parte de nuestro catálogo de experiencias educativas y sensoriales.</p>
+</div>  
+</td>
+</tr>
+</table>
 
-### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
