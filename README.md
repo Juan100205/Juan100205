@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Juan José Riaño Zabaleta</a> 👋</h1>
 </div>
-<img src="Home.png">
 
 ## Sobre mí
 
@@ -15,52 +14,31 @@
 ## Proyectos destacados
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">🏛️ Museo de Patología (Patology Museum)</h3>
 <div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/H0e1xWD.jpg" width="400" alt="Museo de Patología">
-</a>
 <p>
-<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/VR%20APP-Unity%20%2B%20Blender-blueviolet?style=for-the-badge">
-</a>
 </p>
 <p>Una aplicación de realidad virtual 3D completamente personalizada que ofrece visualización inmersiva de modelos anatómicos con diversas patologías. Este museo virtual permite a los usuarios explorar entornos interactivos del metaverso, con modelos originales diseñados, esculpidos y texturizados desde cero.</p>
 </div>
 </td>
 
-<td width="50%">
+<td width="33%">
 <h3 align="center">🌐 ArcovXR</h3>
 <div align="center">
-<a href="https://arcovxr.com" target="_blank">
-<img src="https://i.imgur.com/VZP1Dsz.jpg" width="400" alt="ArcovXR">
-</a>
 <p>
-<a href="https://arcovxr.com" target="_blank">
 <img src="https://img.shields.io/badge/WEBAPP-React%20%2B%20Three.js-61dafb?style=for-the-badge&logo=react">
-</a>
 </p>
 <p>Página web avanzada de una consultora en tecnologías emergentes, donde se evidencia el uso de manejo de estados, efectos visuales y enrutamiento dinámico de ventanas. Además, integra tecnologías de última generación como la visualización de modelos 3D diseñados desde cero para experiencias web interactivas.</p>
 </div>  
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
-<td width="50%">
+<td width="33%">
 <h3 align="center">📱 Clon de TikTok (TiktokClone)</h3>
 <div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/2xKPAdf.jpg" width="400" alt="Clon de TikTok">
-</a>
 <p>
-<a href="#" target="_blank">
 <img src="https://img.shields.io/badge/MOBILE-React%20Native%20%2B%20Supabase-ff8800?style=for-the-badge&logo=react&logoColor=white">
-</a>
 </p>
 <p>Aplicación móvil inspirada en TikTok, con visualización dinámica e interactiva de videos, integrada con Supabase para su respectiva funcionalidad y actualizaciones en tiempo real. Desarrollada con React Native.</p>
 </div>  
