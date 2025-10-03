@@ -16,32 +16,32 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🕹️ Videojuego 3D en Spatial</h3>
+<h3 align="center">🏛️ Museo de Patología (Patology Museum)</h3>
 <div align="center">
-<a href="https://www.spatial.io" target="_blank">
-<img src="https://i.imgur.com/H0e1xWD.jpg" width="400" alt="Spatial Metaverse">
+<a href="#" target="_blank">
+<img src="https://i.imgur.com/H0e1xWD.jpg" width="400" alt="Museo de Patología">
 </a>
 <p>
-<a href="https://www.spatial.io" target="_blank">
-<img src="https://img.shields.io/badge/METAVERSO-Spatial-blueviolet?style=for-the-badge">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/VR%20APP-Unity%20%2B%20Blender-blueviolet?style=for-the-badge">
 </a>
 </p>
-<p>Videojuego interactivo creado en Spatial para exploración 3D en el navegador. Ideal para exhibiciones, museos virtuales o eventos inmersivos. Incluye modelado 3D, lógica de juego y scripting personalizado.</p>
+<p>Una aplicación de realidad virtual 3D completamente personalizada que ofrece visualización inmersiva de modelos anatómicos con diversas patologías. Este museo virtual permite a los usuarios explorar entornos interactivos del metaverso, con modelos originales diseñados, esculpidos y texturizados desde cero.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">🌐 Plataforma Web de Experiencias</h3>
+<h3 align="center">🌐 ArcovXR</h3>
 <div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/VZP1Dsz.jpg" width="400" alt="Experiencias Web">
+<a href="https://arcovxr.com" target="_blank">
+<img src="https://i.imgur.com/VZP1Dsz.jpg" width="400" alt="ArcovXR">
 </a>
 <p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/WEBAPP-React%20%2B%20Firebase-61dafb?style=for-the-badge&logo=react">
+<a href="https://arcovxr.com" target="_blank">
+<img src="https://img.shields.io/badge/WEBAPP-React%20%2B%20Three.js-61dafb?style=for-the-badge&logo=react">
 </a>
 </p>
-<p>Aplicación web donde los usuarios pueden reservar talleres, ver experiencias en video 360° y acceder a contenido educativo inmersivo. Hecha con React, Firebase, TailwindCSS y herramientas WebXR.</p>
+<p>Página web avanzada de una consultora en tecnologías emergentes, donde se evidencia el uso de manejo de estados, efectos visuales y enrutamiento dinámico de ventanas. Además, integra tecnologías de última generación como la visualización de modelos 3D diseñados desde cero para experiencias web interactivas.</p>
 </div>  
 </td>
 </tr>
@@ -52,74 +52,23 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎮 Juego Web Interactivo 2D/3D</h3>
+<h3 align="center">📱 Clon de TikTok (TiktokClone)</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://i.imgur.com/2xKPAdf.jpg" width="400" alt="Juego Web">
+<img src="https://i.imgur.com/2xKPAdf.jpg" width="400" alt="Clon de TikTok">
 </a>
 <p>
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/JUEGO-WebGL%20%2B%20Three.js-ff8800?style=for-the-badge&logo=three.js&logoColor=white">
+<img src="https://img.shields.io/badge/MOBILE-React%20Native%20%2B%20Supabase-ff8800?style=for-the-badge&logo=react&logoColor=white">
 </a>
 </p>
-<p>Juego interactivo 3D en el navegador desarrollado con Three.js y WebGL. Ideal para mostrar físicas básicas, interacciones con el usuario y mundos virtuales jugables sin instalar nada.</p>
-</div>  
-</td>
-
-<td width="50%">
-<h3 align="center">🧱 Modelos 3D para Realidad Virtual</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/FnzzftY.jpg" width="400" alt="Modelado 3D">
-</a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/3D%20MODELING-Blender%20%2B%20GLTF-orange?style=for-the-badge&logo=blender&logoColor=white">
-</a>
-</p>
-<p>Creación de escenarios, props y personajes 3D listos para usar en juegos y metaversos. Modelos optimizados en Blender, exportados en formatos GLTF/GLB compatibles con engines web.</p>
+<p>Aplicación móvil inspirada en TikTok, con visualización dinámica e interactiva de videos, integrada con Supabase para su respectiva funcionalidad y actualizaciones en tiempo real. Desarrollada con React Native.</p>
 </div>  
 </td>
 </tr>
 </table>
 
 <br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">📱 App Web Interactiva para Talleres</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/fq4kcvn.jpg" width="400" alt="Taller Web App">
-</a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/EXPERIENCIAS-Web%20interactiva-00bcd4?style=for-the-badge">
-</a>
-</p>
-<p>App en línea donde los usuarios pueden simular actividades de cocina, arte o ciencia de manera interactiva. Incluye control de flujo, minijuegos y formularios para registrar avances. Inspirada en plataformas como Kahoot o Tinkercad.</p>
-</div>  
-</td>
-
-<td width="50%">
-<h3 align="center">🌌 Galería Virtual de Proyectos</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/pfB5Aks.jpg" width="400" alt="Galería virtual">
-</a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/GALERÍA-Virtual%20Expo%20Room-a020f0?style=for-the-badge">
-</a>
-</p>
-<p>Entorno 3D para recorrer tus proyectos como si estuvieras en una galería. Compatible con dispositivos VR y navegadores. Hecho con A-Frame y JavaScript, totalmente personalizable.</p>
-</div>  
-</td>
-</tr>
-</table>
-
-
 
 <p align="center">
 <a href="https://github.com/ArisGuimera">
